@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<div>
+  <button
+    onClick={[Function]}
+  >
+    Toggle Menu
+  </button>
+  <label>
+    <input
+      checked={false}
+      onChange={[Function]}
+      type="checkbox"
+    />
+  </label>
+</div>
+`;
